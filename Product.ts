@@ -32,4 +32,12 @@ export const ProuductList: Product[] = [
         expiryDate: new Date(),
         price: 323
     },
+    {
+        _key: '4',
+        name: 'Ice Cream3',
+        brand: 'brand2',
+        createdDate: new Date(),
+        expiryDate: new Date(),
+        price: 323
+    }
 ]
